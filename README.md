@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://discordapp.com/api/guilds/865676303017312276/widget.png?style=banner4" alt="Discord Banner 4"/>
+<img src="https://discordapp.com/api/guilds/865676303017312276/widget.png?style=banner2" alt="Discord Banner 4"/>
