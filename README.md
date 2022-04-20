@@ -15,7 +15,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/youaskwebuild/MyLinx?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/youaskwebuild/MyLinx?style=for-the-badge)
 ![Website](https://img.shields.io/website?down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fyouaskwebuild.github.io%2FMyLinx%2F)
-![Discord](https://img.shields.io/discord/854067244274155540?style=for-the-badge)
+![Discord](https://img.shields.io/discord/878711409691750441?style=for-the-badge)
 
 
 
